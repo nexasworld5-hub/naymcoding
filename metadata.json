@@ -1,0 +1,6 @@
+{
+  "name": "StyleWear — স্টাইলওয়্যার ফ্যাশন শপ",
+  "description": "বাংলাদেশের আধুনিক অনলাইন ফ্যাশন স্টোর — নারী, পুরুষ, জুতা, ব্যাগ ও এক্সেসরিজ কালেকশন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
